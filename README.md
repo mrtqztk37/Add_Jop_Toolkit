@@ -10,4 +10,4 @@ react-icons
 sass
 
 # Gif
-<img src=""screen.gif/>
+<img src="screen.gif"/>
